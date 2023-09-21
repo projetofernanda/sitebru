@@ -1,0 +1,5 @@
+Faça as seguintes mudanças: 
+
+1º Desenvolva uma API Restful em JavaScript/C#/JAVA/PHP (Qualquer linguagem)
+2º No formulário que desenvolveu atualize para cadastrar o MySQL utilizando a API ou seja, para consumir a API utilizar o JavaScript. 
+3º Faça uma página que ao se logar o usuário localize o endereço no Google Maps e mostre sua localização ao clicar no botão com  o ponto. (Esse mzapa deve estar embutido)
